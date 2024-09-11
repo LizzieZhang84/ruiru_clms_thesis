@@ -1,3 +1,4 @@
 *.txt
 *.xlsx
 *.ann
+brat_anno_valid/
